@@ -5,10 +5,12 @@ Create a List that contains information of the employees of an organization, dev
 Initialize the list with the details :<br>
 ---- Emp Id, Emp Name, Join Date, Designation Code, Department, Basic, HRA, IT<br>
 Calculate Designation and DA based on designation code:<br>
-*Designation Code    Designation    DA<br>
-*e                 Engineer      20000<br>
-*c                 Consultant    32000<br>
-*k                 Clerk         12000<br>
-*r                 Receptionist  15000<br>
-*m                 Manager       40000<br>
+| Designation Code | Designation  | DA |
+|------------------|--------------|--------|
+| e               | Engineer     | 20000  |
+| c                | Consultant   | 32000  |
+| k                | Clerk        | 12000  |
+| r                | Receptionist | 15000  |
+| m                | Manager      | 40000  |
+
 Calculate Salary as Salary = Basic + HRA + DA - IT<br>
