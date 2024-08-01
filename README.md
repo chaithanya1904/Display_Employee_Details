@@ -1,5 +1,5 @@
 # Display_Employee_Details
-Create a List that contains information of the employees of an organization, develop a small java application, which accepts employee id as input and displays the following details as output : <br>
+Create a List/Table that contains information of the employees of an organization, develop a small java application, which accepts employee id as input and displays the following details as output : <br>
 ---- If employee exists : Emp Id, Emp Name, Department, Designation, Salary<br>
 ---- If emploee doesn't exists : display There is no employee with Emp Id<br>
 Initialize the list with the details :<br>
